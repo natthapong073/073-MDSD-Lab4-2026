@@ -1,4 +1,4 @@
-<img width="975" height="828" alt="image" src="https://github.com/user-attachments/assets/3a161da0-13ab-4d0c-b435-378bbbcee53a" /># 📱 ใบงานการทดลองที่ 4
+# 📱 ใบงานการทดลองที่ 4
 # Flutter Layout & Navigation — Multi-Screen Travel App
 
 > **รายวิชา:** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่  
